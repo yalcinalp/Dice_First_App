@@ -1,2 +1,2 @@
-# zort
-Interactive dice game with GDSC-METU community,
+# Interactive dice game with GDSC-METU community
+
